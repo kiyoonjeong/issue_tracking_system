@@ -1,18 +1,18 @@
 # Issue Tracking System
 
-* Set up
+## Set up
 
 1. Run issuetracking.sql in MySQL Workbench
 2. Edit include.php file. Update userid and password to access your database system
 3. Install and run docker to use web service
 
 
-* Web Page Preview
+## Web Page Preview
 
-# 1. Login Page
+## 1. Login Page
 <img width="641" alt="Screen Shot 2020-05-26 at 4 57 39 PM" src="https://user-images.githubusercontent.com/23174275/82950067-b03b8400-9f72-11ea-8f07-9cc0bcd829b4.png">
 
-# 2. Sign up Page
+## 2. Sign up Page
 <img width="671" alt="Screen Shot 2020-05-26 at 5 00 08 PM" src="https://user-images.githubusercontent.com/23174275/82950052-add92a00-9f72-11ea-96d6-b28248120bfe.png">
 
 # 3. Main Page
