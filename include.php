@@ -2,7 +2,7 @@
 
 //<!-- Example Blog written by Raymond Mui -->
 
-$mysqli = new mysqli("host.docker.internal", "root", "kiwi7272", "issuetrackingsystem");
+$mysqli = new mysqli("host.docker.internal", "input your id here" , "input your password here" , "issuetrackingsystem");
 
 /* check connection */
 if (mysqli_connect_errno()) {
