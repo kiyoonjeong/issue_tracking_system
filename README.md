@@ -1,5 +1,7 @@
 # Issue Tracking System
 
+It is a web-based issue tracking system which allows members to create new projects, report issues or bugs for any projects, assign the issue to certain people for fixing, and change the status of issues in the workflow.
+
 ## Set up
 
 1. Run issuetracking.sql in MySQL Workbench
